@@ -8,7 +8,7 @@ This tutorial is to get you fimilar with basics of mongoDB and python API
 
 
 ## For Linux users 
-###For pymongo
+**For pymongo**
 ```
 Run the following in command Line: python -m pip install pymongo
 ```
